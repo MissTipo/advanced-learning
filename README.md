@@ -1,7 +1,7 @@
 # Advanced Backend Engineering
 
-- [Frameworks]()
-- [Databases]()
-- [Languages]()
-- [Cloud Native]()
+- [Frameworks](https://github.com/MissTipo/advanced-learning/tree/main/frameworks)
+- [Databases](https://github.com/MissTipo/advanced-learning/tree/main/databases)
+- [Languages](https://github.com/MissTipo/advanced-learning/tree/main/languages)
+- [Cloud Native](https://github.com/MissTipo/advanced-learning/tree/main/cloud-native)
 
